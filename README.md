@@ -1,0 +1,2 @@
+I created this project with the purpose of simplify the communication and data exchange in between a server and multiple clients by using sockets.
+The main classes are well commented to make the project understandable, and also there are some examples with the more basic implementation for the clients and the server. Those examples can be found under the package named "com.hatechnology.apps.sample."
